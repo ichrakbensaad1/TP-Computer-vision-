@@ -32,7 +32,10 @@ Fonctions Gradients (HOG) à l’aide de la bibliothèque Scikit-Image.
 <img src="partie4.PNG"/>
 
 
+# Partie 5 
+* Model Deployment with Python and Streamlit
 
+<img src="tp2.PNG"/>
 
 
 
