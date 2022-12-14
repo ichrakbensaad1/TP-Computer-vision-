@@ -59,7 +59,7 @@ Nous utiliserons TFLite pour créer une application Android de bout en bout pour
 
 
 
-<img src="image4.PNG"/>
+<img src="app.jpg"/>
 
 
 
