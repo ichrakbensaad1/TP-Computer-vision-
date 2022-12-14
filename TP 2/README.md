@@ -14,7 +14,7 @@ Fonctions Gradients (HOG) à l’aide de la bibliothèque Scikit-Image.
 -Divisé les données en ensembles de formation et de test.
 -Construisons différents classificateurs binaires avec le meilleur estimateur pour chacun.
 
-<img src="Ca.PNG" width="128"/>
+<img src="Ca.PNG" />
 # Partie 3
 * Evaluating the Best Face Detector
 
@@ -29,7 +29,7 @@ Fonctions Gradients (HOG) à l’aide de la bibliothèque Scikit-Image.
 
 
 
-<img src="partie4.PNG" width="128"/>
+<img src="partie4.PNG"/>
 
 
 
