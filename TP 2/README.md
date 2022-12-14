@@ -14,29 +14,14 @@ Fonctions Gradients (HOG) à l’aide de la bibliothèque Scikit-Image.
 -Divisé les données en ensembles de formation et de test.
 -Construisons différents classificateurs binaires avec le meilleur estimateur pour chacun.
 
-<img src="Ca.PNG" />
+<img src="Ca.png" width="128"/>
 # Partie 3
 * Evaluating the Best Face Detector
 
 # Partie 4 
 * Finding Faces in a New Image
 
-
-
-
-
-
-
-
-
-<img src="partie4.PNG"/>
-
-
-# Partie 5 
-* Model Deployment with Python and Streamlit
-
-<img src="tp2.PNG"/>
-
+<img src="partie4.png" width="128"/>
 
 
 ### Installing with pip
