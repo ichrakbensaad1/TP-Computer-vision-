@@ -30,7 +30,7 @@ Le projet est principalement divisé en deux parties
 
 
 
-<img src="Ca.PNG" />
+<img src="tp3.PNG" />
 
 
 # Partie 2: Application android 
@@ -57,7 +57,7 @@ Nous utiliserons TFLite pour créer une application Android de bout en bout pour
 
 
 
-<img src="partie4.PNG"/>
+<img src="image4.PNG"/>
 
 
 
@@ -65,12 +65,12 @@ Nous utiliserons TFLite pour créer une application Android de bout en bout pour
 
 
 ### Installing with pip
-*  Pour installer  pandas  vous pouvez utiliser la commande  :
+*  Pour installer tensorflow  vous pouvez utiliser la commande  :
 ```bash
- npm install pandas
+ npm install tensorflow
 ```
 
-* Pour installer  matplotlib, vous pouvez utiliser la commande npm fournie avec node.js :
+* Pour installer  keras, vous pouvez utiliser la commande npm fournie avec node.js :
  ```bash
- sudo npm install matplotlib 
+ sudo npm install keras
 ```
