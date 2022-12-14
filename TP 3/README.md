@@ -8,15 +8,24 @@ Le projet est principalement divisé en deux parties
 
 # Partie 1 
 * TensorFlow & Keras sont utilisés pour construire et créer un modèle de machine learning.
-1-Loading the data
-2-Transfer Learning with TensorFlow hub
-3-Data Preprocessing
-4-Build the model
-5-Training Model
-6-Checking Performance
-7-Test at random
-8-Confusion Matrix
-9-Export as saved model and convert to TFLite
+1-Loading the data.
+
+2-Transfer Learning with TensorFlow hub.
+
+3-Data Preprocessing.
+
+4-Build the model.
+
+5-Training Model.
+
+6-Checking Performance.
+
+7-Test at random.
+
+8-Confusion Matrix.
+
+9-Export as saved model and convert to TFLite.
+
 
 
 
