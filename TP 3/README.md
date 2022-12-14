@@ -30,7 +30,7 @@ Le projet est principalement divisé en deux parties
 
 
 
-
+<img src="Ca.PNG" />
 
 
 # Partie 2: Application android 
@@ -38,17 +38,16 @@ Le projet est principalement divisé en deux parties
 
 Nous utiliserons TFLite pour créer une application Android de bout en bout pour ce projet. Nous avons décidé de créer une application Android qui détecte le cancer de la pe
 1-Load the model in our Android project.
+
 2-Add TFLite dependency to app/build.gradle file.
+
 3-create a classifier.
+
 4-Recognition is our result data class.
+
 5-convert the preprocessed bitmap into ByteBuffer.
 
-<img src="Ca.PNG" />
-# Partie 3
-* Evaluating the Best Face Detector
 
-# Partie 4 
-* Finding Faces in a New Image
 
 
 
