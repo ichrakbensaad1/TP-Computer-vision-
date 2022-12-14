@@ -1,7 +1,8 @@
 
-  # LAB 2 : TP3 : DÉTECTION DU CANCER DE LA PEAU AVEC L'APPLICATION ANDROID
+  # LAB 3 : DÉTECTION DU CANCER DE LA PEAU AVEC L'APPLICATION ANDROID
 
 ## Description
+
 Le projet est principalement divisé en deux parties 
 
 
