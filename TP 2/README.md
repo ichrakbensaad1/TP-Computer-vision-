@@ -4,7 +4,7 @@
 
 
 
-#Partie 1 
+# Partie 1 
 * Feature Engineering:
 Dans un premier temps, nous réalisons feature engineering en extrayant l’histogramme d’orientation
 Fonctions Gradients (HOG) à l’aide de la bibliothèque Scikit-Image.
@@ -28,7 +28,7 @@ Fonctions Gradients (HOG) à l’aide de la bibliothèque Scikit-Image.
 
 
 
-<img src="317347718_2677381055731274_5277755142609519641_n.png" width="128"/>
+<img src="partie 4.png" width="128"/>
 
 
 
